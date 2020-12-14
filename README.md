@@ -7,7 +7,8 @@
 
 - Resolução dos trabalhos práticos individuais 
 [TPI01](https://github.com/itskikat/pratica-ia/tree/main/tpi1)
-<br>
+
+
 ----------
 ## Author
 ##### [Francisca Barros](https://github.com/itskikat/) (NMEC: 93102)
