@@ -6,6 +6,7 @@
 [Guião02 - Resolução Automática de Problemas](https://github.com/itskikat/pratica-ia/tree/main/guiao02)
 
 - Resolução dos trabalhos práticos individuais 
+
 [TPI01](https://github.com/itskikat/pratica-ia/tree/main/tpi1)
 
 
