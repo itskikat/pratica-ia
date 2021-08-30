@@ -13,10 +13,6 @@
 <br>
 [TPI-02](https://github.com/itskikat/pratica-ia/tree/main/tpi2)
 
-- Projeto final de avaliação
-
-[Desenvolvimento de um agente autónomo para o jogo Sokoban](https://github.com/itskikat/pratica-ia/tree/main/projeto)
-
 ----------
 ## Author
 ##### [Francisca Barros](https://github.com/itskikat/) (NMEC: 93102)
